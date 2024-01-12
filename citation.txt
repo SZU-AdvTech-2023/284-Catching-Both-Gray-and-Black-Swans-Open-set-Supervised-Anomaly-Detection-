@@ -1,0 +1,7 @@
+@inproceedings{REPO284,
+    author = "Ding, Choubo and Pang, Guansong and Shen, Chunhua",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "7388--7398",
+    title = "{Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection}",
+    year = "2022"
+}
